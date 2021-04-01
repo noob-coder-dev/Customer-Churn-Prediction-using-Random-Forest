@@ -44,7 +44,6 @@ This project is divided into two parts:
 
 ## <a href="head7">Author</a>
 <a href="https://www.linkedin.com/in/manojit-roy-8a93a1183/" target="_blank">Manojit Roy</a>
-<a href="https://www.google.com" target="_blank">Click me to open in a new tab!</a>
 
 ## <a href="head8">Credit</a>
 The dataset has been provided by Internshala Machine Learning Training.
