@@ -40,3 +40,10 @@ This project is divided into two parts:
 3. improving the accuracy value of the model further.
 
 ## <a href="head6">Technology Used</a>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+## <a href="head7">Author</a>
+<a href="www.linkedin.com/in/manojit-roy-8a93a1183">Manojit Roy</a>
+
+## <a href="head8">Credit</a>
+The dataset has been provided by Internshala Machine Learning Training.
