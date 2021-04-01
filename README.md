@@ -43,7 +43,7 @@ This project is divided into two parts:
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ## <a href="head7">Author</a>
-[Manojit Roy](https://www.linkedin.com/in/manojit-roy-8a93a1183/)
+<a href="https://www.linkedin.com/in/manojit-roy-8a93a1183/" target="blank">Manojit Roy</a>
 
 ## <a href="head8">Credit</a>
 The dataset has been provided by Internshala Machine Learning Training.
